@@ -1,0 +1,29 @@
+.color {
+  height: 5rem;
+  width: 5rem;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.red {
+  background: red;
+}
+
+.blue {
+  background: blue;
+}
+
+.brown {
+  background: brown;
+}
+
+.green {
+  background: green;
+}
+
+.colors {
+  display: flex;
+}
