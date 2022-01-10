@@ -10,4 +10,5 @@ form.addEventListener("submit", (e) => {
   option.value = country;
   console.log({ country, option });
   selectElement.appendChild(option);
+  input.value = "";
 });
